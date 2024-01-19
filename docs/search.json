@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-01-18T20:42:44-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "A new website in R. Watch out!",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-01-18T20:42:45-05:00"
+    }
+  ],
+  "collections": []
+}

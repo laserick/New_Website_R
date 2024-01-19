@@ -1,0 +1,12 @@
+name: "New_Website_R"
+title: "A new website in R. Watch out!"
+description: |
+  A new website in R. Watch out!
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
